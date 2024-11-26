@@ -1,4 +1,4 @@
-# Olympic Medal Prediction using Machine Learning
+# Olympic Medal Prediction using Machine Learning(learning project)
 
 This project predicts the likelihood of a country winning a medal in the Olympics using historical data and machine learning.
 
@@ -9,6 +9,7 @@ This project predicts the likelihood of a country winning a medal in the Olympic
 - Required libraries:
 ```bash
 pip install pandas numpy scikit-learn seaborn
+```
 
 ## Data:
 ### Download the datasets:
